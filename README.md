@@ -17,12 +17,13 @@ This project is a User Directory application built with React(Vite) and the Mate
 
 #Installation
  Clone the repository:
- git clone https://github.com/yourusername/react-user-directory.git
- cd react-user-directory
+ git clone https://github.com/technothakur1987/userdirectory2024.git
+ cd userdirectory2024
 
 #Install dependencies:
  npm install
- npm run dev // run the developemetnt server on http://localhost:5173/
+ npm run dev 
+ // run the developemetnt server on http://localhost:5173/
 
  Live Link : https://userdirectory2024.netlify.app/
 
